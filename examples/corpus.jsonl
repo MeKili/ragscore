@@ -1,0 +1,12 @@
+{"id": "d1", "text": "Gradient descent updates model parameters by stepping against the gradient of the loss."}
+{"id": "d2", "text": "Backpropagation computes gradients of the loss with respect to every weight in a neural network."}
+{"id": "d3", "text": "BM25 is a ranking function that scores documents by term frequency, inverse document frequency and length."}
+{"id": "d4", "text": "Dense retrieval encodes queries and passages into vectors and ranks passages by similarity."}
+{"id": "d5", "text": "Reciprocal rank fusion merges several ranked lists by summing one over rank plus a constant."}
+{"id": "d6", "text": "A bloom filter is a compact probabilistic set that can return false positives but never false negatives."}
+{"id": "d7", "text": "Cross validation splits data into folds so a model is always scored on examples it has not seen."}
+{"id": "d8", "text": "Overfitting happens when a model memorises training noise and performs worse on new data."}
+{"id": "d9", "text": "A feature store serves the same engineered features for training and for online prediction."}
+{"id": "d10", "text": "Concept drift is a change in the relationship between inputs and targets after deployment."}
+{"id": "d11", "text": "Prediction intervals describe the range in which a future observation is expected to fall."}
+{"id": "d12", "text": "Retrieval augmented generation grounds a language model answer in passages fetched at query time."}

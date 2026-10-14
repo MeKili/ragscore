@@ -1,0 +1,10 @@
+{"id": "q1", "text": "how do neural networks compute gradients", "relevant": {"d2": 2, "d1": 1}, "reference": "backpropagation"}
+{"id": "q2", "text": "ranking function using inverse document frequency", "relevant": ["d3"], "reference": "BM25"}
+{"id": "q3", "text": "how to merge ranked lists from several retrievers", "relevant": ["d5"], "reference": "reciprocal rank fusion"}
+{"id": "q4", "text": "set that has false positives but no false negatives", "relevant": ["d6"], "reference": "bloom filter"}
+{"id": "q5", "text": "why does a model do worse on new data than on training data", "relevant": {"d8": 2, "d7": 1}, "reference": "overfitting"}
+{"id": "q6", "text": "same features in training and online serving", "relevant": ["d9"], "reference": "feature store"}
+{"id": "q7", "text": "inputs and targets relationship changes after deployment", "relevant": ["d10"], "reference": "concept drift"}
+{"id": "q8", "text": "range where a future value is expected to fall", "relevant": ["d11"], "reference": "prediction interval"}
+{"id": "q9", "text": "ground language model answers in fetched passages", "relevant": {"d12": 2, "d4": 1}, "reference": "retrieval augmented generation"}
+{"id": "q10", "text": "encode passages into vectors and rank by similarity", "relevant": ["d4"], "reference": "dense retrieval"}
